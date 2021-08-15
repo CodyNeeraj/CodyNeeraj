@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CodyNeeraj
-- 👀 I’m interested in Optimisation of Algorithms
-- 🌱 I’m currently learning Blockchain and Networking Technologies with Cryptography
-- 💞️ I’m looking to collaborate on Desktop Networking Applications and Rest/Cloud Communications
+- 👋 Hi, I’m Neeraj aka @CodyNeeraj
+- 👀 I’m interested in developing Native and cross platform Mobile applications
+- 🌱 I’m currently learning Native Android and kotlin
+- 💞️ I’m looking to collaborate on Native Android Developement using JAVA or Kotlin and Microsoft Windows Programs
 - 📫 How to reach me www.github.com/codyneeraj
 
 <!---
