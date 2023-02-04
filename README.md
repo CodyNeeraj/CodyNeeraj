@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
-<h3 align="center">A Passionate Android developer from India</h3>
+<h3 align="center">A Passionate Web Developer and System Design Enthisiast from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codyneeraj&label=Profile%20views&color=0e75b6&style=flat" alt="codyneeraj" /> </p>
 
-- 🌱 I’m currently learning **Native Android**
-- 🤝 I’m looking for help with **Distributed Systems**
+- 🌱 I’m currently learning **Microservices and System Design**
+- 🤝 I’m looking for help with **Web Architecture**
 - 👨‍💻 All of my projects are available at [github.com/Codyneeraj](github.com/Codyneeraj)
 
 - 💬 Ask me about **Firebase, JAVA , Android**
