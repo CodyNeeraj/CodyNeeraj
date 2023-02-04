@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
-<h3 align="center">A Passionate Web Developer and System Design Enthisiast from India</h3>
+<h3 align="center">A Passionate Web Developer and System Design Enthusiast from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codyneeraj&label=Profile%20views&color=0e75b6&style=flat" alt="codyneeraj" /> </p>
 
